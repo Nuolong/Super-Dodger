@@ -3,11 +3,11 @@ A small uncompleted 2D bullet-hell video game created with Unity and C#
 Song Used - Amalgam (Toby Fox)
 
 # Instructions
-* Player 1 *
+Player 1
 - Use keys A and D to rotate, W and S to move forward and backward respectively.
 - Hold SPACE to shoot chips.
 
-* Player 2 *
+Player 2
 - Use the MOUSE to move around the character.
 - Dodge Player 1's chips for as long as possible.
 
